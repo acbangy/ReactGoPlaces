@@ -1,6 +1,6 @@
-import Container from "./Container";
+import App from "./components/App";
 
 ReactDOM.render(
-  <Container />,
+  <App />,
   document.getElementById("react")
 );

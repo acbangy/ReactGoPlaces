@@ -16,3 +16,16 @@ npm start
 ```
 
 Go to http://localhost:3000, you should see a "Hello React" line.
+
+# GoPlaces App
+
+Components:
+
+	Container 
+	Search Box
+	Master List
+		Add New
+		Results
+	Master Detail
+		Main Info
+		Add New
